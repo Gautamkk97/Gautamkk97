@@ -1,7 +1,7 @@
 👋 Welcome to My GitHub Profile
 ===============================
 
-### [Gautam KK]
+### Gautam KK
 
 Aspiring Machine Learning Engineer 
 ---
@@ -23,6 +23,6 @@ I am an enthusiastic and dedicated professional with a strong foundation in mach
 I am actively seeking opportunities in the field of AI and machine learning. Please feel free to reach out to discuss potential collaborations or job opportunities.
 
 - **Email:** [gk7234@gmail.com](mailto:gk7234@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [www.linkedin.com/in/gautam-kk-491b761ba](www.linkedin.com/in/gautam-kk-491b761ba)
 
 Thank you for visiting my profile.
