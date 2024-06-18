@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Welcome to My GitHub Profile
+===============================
 
-<!--
-**Gautamkk97/Gautamkk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Gautam KK]
 
-Here are some ideas to get you started:
+Aspiring Machine Learning Engineer 
+---
+I am an enthusiastic and dedicated professional with a strong foundation in machine learning and artificial intelligence. My academic background, combined with hands-on project experience, has equipped me with the skills necessary to tackle complex problems using advanced AI techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills and Technologies
+- **Programming Languages:** Python
+- **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Data Science:** Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering
+- **AI Specializations:** Natural Language Processing (NLP), Computer Vision, Reinforcement Learning
+- **Tools:** Jupyter, Git, Docker, AWS, GCP
+
+#### Education
+- **Master of Science in Computer Science**, Liverpool John Moores University
+  - Focus: Machine Learning and Artificial Intelligence
+  - Thesis: "Scope 3 emission estimation and carbon footprinting of household products using artifical intelligence"
+
+#### Contact Information
+I am actively seeking opportunities in the field of AI and machine learning. Please feel free to reach out to discuss potential collaborations or job opportunities.
+
+- **Email:** [gk7234@gmail.com](mailto:gk7234@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+Thank you for visiting my profile.
